@@ -1,2 +1,1 @@
 #Init folders
-print("Name")
